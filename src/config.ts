@@ -1,7 +1,7 @@
 export const SITE = {
-  website: "https://0xpa3lo.github.io/",
+  website: "https://0xpzivic.github.io/",
   author: "Paolo Zivic",
-  profile: "https://0xpa3lo.github.io/",
+  profile: "https://0xpzivic.github.io/",
   desc: "Notes on building things — software, founders, and the occasional rabbit hole.",
   title: "Paolo Zivic",
   ogImage: "astropaper-og.jpg",
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Suggest an edit",
-    url: "https://github.com/0xpa3lo/0xpa3lo.github.io/edit/main/",
+    url: "https://github.com/0xpzivic/0xpzivic.github.io/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr",

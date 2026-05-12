@@ -28,6 +28,6 @@ A few reasons:
 - Notes on building product with small teams.
 - The occasional opinion that I'll probably regret in six months.
 
-If any of that interests you, the [RSS feed](/rss.xml) is live and the source for this site is on [GitHub](https://github.com/0xpa3lo/0xpa3lo.github.io).
+If any of that interests you, the [RSS feed](/rss.xml) is live and the source for this site is on [GitHub](https://github.com/0xpzivic/0xpzivic.github.io).
 
 — Paolo

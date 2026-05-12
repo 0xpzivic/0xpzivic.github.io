@@ -7,7 +7,7 @@ Hi, I'm **Paolo Zivic**.
 
 I build software. This is where I write down what I learn — mostly about engineering, product, and the messy in-between of building things with small teams.
 
-You can find me on [GitHub](https://github.com/0xpa3lo), [LinkedIn](https://www.linkedin.com/in/paolo-zivic/), or via [email](mailto:zivic.paolo@gmail.com).
+You can find me on [GitHub](https://github.com/0xpzivic), [LinkedIn](https://www.linkedin.com/in/paolo-zivic/), or via [email](mailto:zivic.paolo@gmail.com).
 
 ## What you'll find here
 

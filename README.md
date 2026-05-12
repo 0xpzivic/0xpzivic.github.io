@@ -1,6 +1,6 @@
-# 0xpa3lo.github.io
+# 0xpzivic.github.io
 
-Paolo Zivic's personal blog — live at **<https://0xpa3lo.github.io>**.
+Paolo Zivic's personal blog — live at **<https://0xpzivic.github.io>**.
 
 Built with [Astro](https://astro.build) on the [AstroPaper](https://github.com/satnaing/astro-paper) theme. Deploys automatically to GitHub Pages on every push to `main`.
 
