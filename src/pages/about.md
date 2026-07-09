@@ -10,7 +10,7 @@ I'm **Paolo Živić**. I build software — and I build it with AI from the grou
 I spent four years working in tech internationally, split between two roles:
 
 - **Cyber Security Analyst** — monitoring systems, finding vulnerabilities, securing infrastructure
-- **AI Developer** — building chatbots, automating processes, working with NLP models and AI APIs
+- **AI Developer** — building chatbots and writing exercises for the [Akelius Language Learning platform](https://languages.akelius.education), a free language education initiative started in 2015 during the European migrant crisis. Now partnered with UNICEF, it helps refugees and migrant children learn host-country languages in 17 countries. My work focused on NLP models, AI API integrations, and automating content generation for language exercises.
 
 Before that, I studied economics and got my master's degree. That combination — tech plus business — is the lens I work through. I don't just ask "can I build this?" I ask "should I build this, and will it pay off?"
 
