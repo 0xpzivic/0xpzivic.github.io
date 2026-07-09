@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://0xpzivic.github.io/",
   author: "Paolo Zivic",
   profile: "https://0xpzivic.github.io/",
-  desc: "Notes on building things — software, founders, and the occasional rabbit hole.",
+  desc: "Custom software, AI integration, and cyber security for small businesses in Croatia.",
   title: "Paolo Zivic",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
