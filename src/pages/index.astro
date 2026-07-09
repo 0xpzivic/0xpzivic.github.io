@@ -22,9 +22,10 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 <Layout>
   <Header />
   <main id="main-content" data-layout="index" class="app-layout">
+    <!-- Hero -->
     <section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
       <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Hi, I'm Paolo
+        I build software with AI built in.
       </h1>
       <a
         target="_blank"
@@ -42,38 +43,94 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
       </a>
 
       <p>
-        I build software. This is where I write down what I learn — mostly about
-        engineering, product, and the messy in-between of building things with
-        small teams.
+        Custom applications, AI integration, and security — for small businesses
+        that want enterprise-grade tech without the enterprise price tag.
       </p>
       <p class="mt-2">
-        Browse <LinkButton
-          class="underline decoration-dashed underline-offset-4 hover:text-accent"
-          href="/posts/"
-        >
-          all posts
-        </LinkButton>, the <LinkButton
+        Based in Istria, working with clients across Croatia. Read more
+        <LinkButton
           class="underline decoration-dashed underline-offset-4 hover:text-accent"
           href="/about/"
         >
-          about page
-        </LinkButton>, or subscribe via
+          about me
+        </LinkButton>
+        or
         <LinkButton
           class="underline decoration-dashed underline-offset-4 hover:text-accent"
-          href="/rss.xml"
+          href="mailto:zivic.paolo@gmail.com"
         >
-          RSS
+          get in touch
         </LinkButton>.
       </p>
       {
-        // only display if at least one social link is enabled
         SOCIALS.length > 0 && (
           <div class="mt-4 flex max-sm:flex-col sm:items-center">
-            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Social Links:</div>
+            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Connect:</div>
             <Socials />
           </div>
         )
       }
+    </section>
+
+    <!-- Services -->
+    <section id="services" class="pt-12 pb-6 border-b border-border">
+      <h2 class="text-2xl font-semibold tracking-wide">What I Do</h2>
+      <div class="mt-6 grid gap-6 sm:grid-cols-2">
+        <div>
+          <h3 class="text-lg font-semibold">AI Integration</h3>
+          <p class="mt-2">
+            I add AI to your business. Chatbots that answer customer questions.
+            Document processing that saves hours of typing. Data analysis that
+            spots trends you'd miss. Things that used to be only for big
+            companies — now available to you.
+          </p>
+        </div>
+        <div>
+          <h3 class="text-lg font-semibold">Custom Software</h3>
+          <p class="mt-2">
+            Apps built specifically for your business. Booking systems,
+            management tools, client portals — whatever you need but can't buy
+            off the shelf. From first line of code to deployment.
+          </p>
+        </div>
+        <div>
+          <h3 class="text-lg font-semibold">Cyber Security</h3>
+          <p class="mt-2">
+            Every project I build has security from day one. Not bolted on
+            later. Because fixing a breach costs way more than preventing one.
+            GDPR compliance, secure architecture, data protection — all included.
+          </p>
+        </div>
+        <div>
+          <h3 class="text-lg font-semibold">IT Consulting</h3>
+          <p class="mt-2">
+            I don't just write code. I look at how your business works, figure
+            out what's worth automating, and tell you what's not. My economics
+            background helps me think in return on investment, not just features.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- About snippet -->
+    <section id="about-snippet" class="pt-12 pb-6 border-b border-border">
+      <h2 class="text-2xl font-semibold tracking-wide">Who I Am</h2>
+      <p class="mt-4">
+        Four years building software internationally — first as a cyber security
+        analyst, then as an AI developer. I worked on complex projects for a
+        multinational company and saw how big teams use technology to move
+        faster. Now I'm bringing that experience to small businesses back home
+        in Croatia.
+      </p>
+      <p class="mt-2">
+        More
+        <LinkButton
+          class="underline decoration-dashed underline-offset-4 hover:text-accent"
+          href="/about/"
+        >
+          about me and my background
+        </LinkButton>.
+      </p>
     </section>
 
     {
