@@ -14,6 +14,10 @@ I spent four years working in tech internationally, split between two roles:
 
 Before that, I studied economics and got my master's degree. That combination — tech plus business — is the lens I work through. I don't just ask "can I build this?" I ask "should I build this, and will it pay off?"
 
+## Projects
+
+- **[Tap2Dance](https://www.tap2-dance.com)** — Mobile app (iOS + Android) for discovering dance festivals and local dance events worldwide. Festival programs, DJ schedules, artist lineups, attendance polls, and event management for organizers. I contributed to the development.
+
 ## What I'm Doing Now
 
 I'm starting my own business in Istria, Croatia. The idea is simple: small and medium companies need AI and custom software just as much as big corporations do, but they can't afford big agency prices. I fill that gap.
